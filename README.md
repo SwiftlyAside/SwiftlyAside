@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 Java/Javascript/C++ Web & Game Developer. 
 If you have any questions, please contact me by Discord(Side#0736) or e-mail. https://repl.it/@swiftly
 
+https://codetrace.com/users/SwiftlyAside
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SwiftlyAside)](https://github.com/anuraghazra/github-readme-stats)
