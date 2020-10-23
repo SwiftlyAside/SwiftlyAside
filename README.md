@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Java/Javascript/C++ Web & Game Developer. 
+Java/Javascript Web & Game Developer. 
 If you have any questions, please contact me by Discord(Side#0736) or e-mail. 
 
 [![Stat](https://github-readme-stats.vercel.app/api?username=SwiftlyAside&theme=graywhite&show_icons=true&hide_border=true&bg_color=00000000&title_color=40C083&icon_color=40C083&text_color=246D4A)](https://github.com/SwiftlyAside)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftlyAside&layout=compact&hide_border=true&bg_color=00000000&title_color=40C083&icon_color=40C083&text_color=246D4A)](https://github.com/SwiftlyAside)
 
-https://repl.it/@swiftly
 https://codetrace.com/users/SwiftlyAside
