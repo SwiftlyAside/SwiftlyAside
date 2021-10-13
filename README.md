@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/99dae9a2-3747-4d52-8b75-f3bd7e5d4a02.svg)](https://wakatime.com/@99dae9a2-3747-4d52-8b75-f3bd7e5d4a02)
 <!--
 **SwiftlyAside/SwiftlyAside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
