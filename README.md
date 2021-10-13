@@ -25,5 +25,5 @@ If you have any questions, please contact me by Discord(Side#0736) or e-mail.
 
 [![Stat](https://github-readme-stats.vercel.app/api?username=SwiftlyAside&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=1c6cb2&icon_color=61dafb&text_color=1c6cb2)](https://github.com/SwiftlyAside)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwiftlyAside&layout=compact&hide_border=true&langs_count=5)](https://github.com/SwiftlyAside)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwiftlyAside&layout=compact&hide_border=true&langs_count=6&v=2)](https://github.com/SwiftlyAside)
 
