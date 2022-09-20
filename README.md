@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/99dae9a2-3747-4d52-8b75-f3bd7e5d4a02.svg)](https://wakatime.com/@99dae9a2-3747-4d52-8b75-f3bd7e5d4a02)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwiftlyAside&count_bg=%2361DAFB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **SwiftlyAside/SwiftlyAside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
