@@ -16,9 +16,6 @@ If you have any questions, please contact me by e-mail.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SwiftlyAside&theme=react&hide_border=true)<br/>
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwiftlyAside&layout=compact&theme=react&hide_border=true&langs_count=6&v=2)](https://github.com/SwiftlyAside)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SwiftlyAside&icon=0&color=1)](https://visitcount.itsvg.in)
 
