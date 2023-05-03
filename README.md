@@ -17,7 +17,7 @@ If you have any questions, please contact me by e-mail.
 
 # 📊 Other Stats:
 [![wakatime](https://wakatime.com/badge/user/99dae9a2-3747-4d52-8b75-f3bd7e5d4a02.svg)](https://wakatime.com/@99dae9a2-3747-4d52-8b75-f3bd7e5d4a02)<br/>
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwiftlyAside&layout=compact&theme=react&hide_border=true&langs_count=6&v=2)](https://github.com/SwiftlyAside)</br>
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwiftlyAside&layout=compact&theme=react&hide_border=true&langs_count=6&v=2&range=all_time)](https://github.com/SwiftlyAside)</br>
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ivecis)](https://solved.ac/ivecis) -->
 
 ---
