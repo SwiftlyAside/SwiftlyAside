@@ -2,7 +2,7 @@
 Web & Game Developer. 
 If you have any questions, please contact me by e-mail. 
 
-🔭 I’m currently working on Wikiwiki Inc<br>🌱 I’m currently learning Nest.js
+🔭 I’m currently working on Fromseoul Inc<br>🌱 I’m currently learning Nest.js
 
 
 ## 🌐 Socials:
