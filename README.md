@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/찬수-김-b4a032154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="찬수-김-b4a032154" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chansoo-kim-b4a032154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chansoo-kim-b4a032154" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
