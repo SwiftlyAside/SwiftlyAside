@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftlyaside&label=Profile%20views&color=0e75b6&style=flat" alt="swiftlyaside" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swiftlyaside" alt="swiftlyaside" /></a> </p>
 
-- 🔭 I’m currently working on **Fromseoul, Inc**
+- 🔭 I’m currently working on **Fetching, Inc**
 
-- 🌱 I’m currently learning **Unity, Nest.js and CI/CD**
+- 🌱 I’m currently learning **Nest.js, Nakama server and CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://ilankim.vercel.app](https://ilankim.vercel.app)
 
